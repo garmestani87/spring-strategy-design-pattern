@@ -1,0 +1,8 @@
+package com.garm.sample.strategy;
+
+public enum StrategyName {
+    GENERAL_LOG_REQUEST_STRATEGY,
+    GENERAL_LOG_RESPONSE_STRATEGY,
+    SPECIFIC_LOG_REQUEST_STRATEGY,
+    SPECIFIC_LOG_RESPONSE_STRATEGY
+}
